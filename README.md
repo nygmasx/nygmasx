@@ -1,4 +1,4 @@
-### Hi my name is Imrane 👋
+# Hi my name is Imrane 👋
 ## I'm a junior Web Developer
 
 <!--
