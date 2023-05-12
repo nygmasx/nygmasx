@@ -1,4 +1,4 @@
-# Salut à toi moi c'est Imrane 👋
+# Salut à toi, moi c'est Imrane 👋
 ## Je suis un Dev Web Junior, n'hésite pas à regarder mon travail !
 
 <!--
