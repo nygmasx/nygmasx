@@ -1,5 +1,5 @@
-# Hi my name is Imrane 👋
-## I'm a junior Web Developer
+# Salut à toi moi c'est Imrane 👋
+## Je suis un Dev Web Junior, n'hésite pas à regarder mon travail !
 
 <!--
 **nygmasx/nygmasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
